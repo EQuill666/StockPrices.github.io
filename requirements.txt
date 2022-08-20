@@ -2,5 +2,6 @@ fbprophet==0.7.1
 pandas==1.4.3
 pandas-datareader==0.8.1
 plotly==5.10.0
-pystan==2.17.1.0
 yfinance==0.1.74
+cython==0.22
+numpy==1.23.2
